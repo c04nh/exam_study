@@ -13,7 +13,7 @@ class Circle extends Shape{
 		System.out.println("»ö Ä¥ÇÏ±â");
 	}
 }
-public class DrawingExam2_13 {
+public class DrawingExam2_13{
 	public static void main(String[] args) {
 		Circle c = new Circle();
 		c.draw();
