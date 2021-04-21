@@ -8,5 +8,4 @@ class SubstringExam3_9 {
 		strData3 = strData1.substring(2, 5);
 		System.out.println("strData3.substring(2, 5) -> " + strData3);
 	}
-
 }
