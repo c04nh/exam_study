@@ -1,7 +1,7 @@
 package Package;
 class AppendExam3_10 {
 	public static void main(String[] args) {
-		StringBuffer sb1 = new StringBuffer(" Java Programing");
+		StringBuffer sb1 = new StringBuffer(" Java Programming");
 		StringBuffer sb2 = new StringBuffer(" Project");
 		StringBuffer str1 = null;
 		StringBuffer str2 = null;
